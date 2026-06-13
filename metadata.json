@@ -1,0 +1,6 @@
+{
+  "name": "Serenity AI",
+  "description": "An emotional wellness companion that helps users find comfort, perspective, and motivation through personalized reflections and calming visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
